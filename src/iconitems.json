@@ -1,28 +1,168 @@
 [
 	{
+		"Name": "leather cap",
+		"IconRef": 1200,
+		"ModelId": 35
+	},
+	{
+		"Name": "chain cap",
+		"IconRef": 1201,
+		"ModelId": 63
+	},
+	{
+		"Name": "plate cap",
+		"IconRef": 1202,
+		"ModelId": 64
+	},
+	{
+		"Name": "plate full helmet",
+		"IconRef": 1203,
+		"ModelId": 93
+	},
+	{
+		"Name": "cloth vest",
+		"IconRef": 1204,
+		"ModelId": 139
+	},
+	{
+		"Name": "leather tunic",
+		"IconRef": 1205,
+		"ModelId": 31
+	},
+	{
+		"Name": "chain hauberk",
+		"IconRef": 1206,
+		"ModelId": 41
+	},
+	{
+		"Name": "plate breastplate",
+		"IconRef": 1209,
+		"ModelId": 46
+	},
+	{
+		"Name": "cloth arms",
+		"IconRef": 1210,
+		"ModelId": 141
+	},
+	{
+		"Name": "leather arms",
+		"IconRef": 1211,
+		"ModelId": 33
+	},
+	{
+		"Name": "chain arms",
+		"IconRef": 1212,
+		"ModelId": 43
+	},
+	{
+		"Name": "plate arms",
+		"IconRef": 1213,
+		"ModelId": 48
+	},
+	{
+		"Name": "cloth gloves",
+		"IconRef": 1214,
+		"ModelId": 142
+	},
+	{
+		"Name": "leather gloves",
+		"IconRef": 1215,
+		"ModelId": 34
+	},
+	{
+		"Name": "chain gloves",
+		"IconRef": 1216,
+		"ModelId": 44
+	},
+	{
+		"Name": "plate gloves",
+		"IconRef": 1217,
+		"ModelId": 49
+	},
+	{
+		"Name": "cloth robe",
+		"IconRef": 1218,
+		"ModelId": 58
+	},
+	{
+		"Name": "cloak",
+		"IconRef": 1219,
+		"ModelId": 57
+	},
+	{
+		"Name": "cloth leggings",
+		"IconRef": 1220,
+		"ModelId": 140
+	},
+	{
+		"Name": "leather leggings",
+		"IconRef": 1221,
+		"ModelId": 32
+	},
+	{
+		"Name": "chain leggings",
+		"IconRef": 1222,
+		"ModelId": 42
+	},
+	{
+		"Name": "plate leggings",
+		"IconRef": 1223,
+		"ModelId": 47
+	},
+	{
+		"Name": "cloth boots",
+		"IconRef": 1224,
+		"ModelId": 143
+	},
+	{
+		"Name": "leather boots",
+		"IconRef": 1225,
+		"ModelId": 40
+	},
+	{
+		"Name": "chain boots",
+		"IconRef": 1226,
+		"ModelId": 45
+	},
+	{
+		"Name": "plate boots",
+		"IconRef": 1227,
+		"ModelId": 50
+	},
+	{
+		"Name": "cloth cap",
+		"IconRef": 1228,
+		"ModelId": 822
+	},
+	{
+		"Name": "studded cap",
+		"IconRef": 1229,
+		"ModelId": 824
+	},
+	{
 		"Name": "copper coin",
 		"IconRef": 1230,
-		"ModelId": 130
+		"ModelId": 483
 	},
 	{
 		"Name": "silver coin",
 		"IconRef": 1231,
-		"ModelId": 131
+		"ModelId": 484
 	},
 	{
 		"Name": "gold coin",
 		"IconRef": 1232,
-		"ModelId": 132
+		"ModelId": 485
 	},
 	{
 		"Name": "platinum coin",
 		"IconRef": 1233,
-		"ModelId": 133
+		"ModelId": 486
 	},
 	{
 		"Name": "mithril coin",
 		"IconRef": 1234,
-		"ModelId": 134
+		"ModelId": 487
 	},
 	{
 		"Name": "all purpose bag",
@@ -38,6 +178,16 @@
 		"Name": "potion/flask",
 		"IconRef": 1237,
 		"ModelId": 99
+	},
+	{
+		"Name": "full leather helmet",
+		"IconRef": 1238,
+		"ModelId": 491
+	},
+	{
+		"Name": "full studded helmet",
+		"IconRef": 1239,
+		"ModelId": 492
 	},
 	{
 		"Name": "animal skin",
@@ -138,6 +288,41 @@
 		"Name": "gold gem",
 		"IconRef": 1259,
 		"ModelId": 119
+	},
+	{
+		"Name": "full chain helmet",
+		"IconRef": 1260,
+		"ModelId": 493
+	},
+	{
+		"Name": "studded vest",
+		"IconRef": 1261,
+		"ModelId": 51
+	},
+	{
+		"Name": "heavy studded vest",
+		"IconRef": 1263,
+		"ModelId": 156
+	},
+	{
+		"Name": "studded arms",
+		"IconRef": 1264,
+		"ModelId": 53
+	},
+	{
+		"Name": "studded gloves",
+		"IconRef": 1265,
+		"ModelId": 80
+	},
+	{
+		"Name": "studded leggings",
+		"IconRef": 1266,
+		"ModelId": 52
+	},
+	{
+		"Name": "studded boots",
+		"IconRef": 1267,
+		"ModelId": 54
 	},
 	{
 		"Name": "dye flask",
@@ -298,46 +483,6 @@
 		"Name": "silver orb",
 		"IconRef": 1299,
 		"ModelId": 525
-	},
-	{
-		"Name": "Red RvR Mythirian",
-		"IconRef": 1571,
-		"ModelId": 4267
-	},
-	{
-		"Name": "Blue RvR Mythirian",
-		"IconRef": 1572,
-		"ModelId": 4268
-	},
-	{
-		"Name": "Green RvR Mythirian",
-		"IconRef": 1573,
-		"ModelId": 4269
-	},
-	{
-		"Name": "Yellow RvR Mythirian",
-		"IconRef": 1574,
-		"ModelId": 4270
-	},
-	{
-		"Name": "Brown RvR Mythirian",
-		"IconRef": 1575,
-		"ModelId": 4271
-	},
-	{
-		"Name": "Blue PvE Mythirian",
-		"IconRef": 1576,
-		"ModelId": 4272
-	},
-	{
-		"Name": "Green PvE Mythirian",
-		"IconRef": 1577,
-		"ModelId": 4273
-	},
-	{
-		"Name": "Red PvE Mythirian",
-		"IconRef": 1578,
-		"ModelId": 4274
 	},
 	{
 		"Name": "green vial",
@@ -838,21 +983,6 @@
 		"Name": "sqr table (housing)",
 		"IconRef": 1399,
 		"ModelId": 1357
-	},
-	{
-		"Name": "green poison vial",
-		"IconRef": 1568,
-		"ModelId": 4260
-	},
-	{
-		"Name": "red poison vial",
-		"IconRef": 1569,
-		"ModelId": 4261
-	},
-	{
-		"Name": "orange poison vial",
-		"IconRef": 1570,
-		"ModelId": 4262
 	},
 	{
 		"Name": "arch 1 (housing)",
@@ -1425,6 +1555,96 @@
 		"ModelId": 0
 	},
 	{
+		"Name": "valentine's day card",
+		"IconRef": 1515,
+		"ModelId": 3743
+	},
+	{
+		"Name": "valentine's day kiss",
+		"IconRef": 1516,
+		"ModelId": 3744
+	},
+	{
+		"Name": "valentine's day box",
+		"IconRef": 1517,
+		"ModelId": 3745
+	},
+	{
+		"Name": "dragon egg",
+		"IconRef": 1518,
+		"ModelId": 3739
+	},
+	{
+		"Name": "broken dragon egg",
+		"IconRef": 1519,
+		"ModelId": 3746
+	},
+	{
+		"Name": "st. patty's necklace",
+		"IconRef": 1520,
+		"ModelId": 3756
+	},
+	{
+		"Name": "st. patty's clover",
+		"IconRef": 1521,
+		"ModelId": 3757
+	},
+	{
+		"Name": "dragonsworn medal",
+		"IconRef": 1522,
+		"ModelId": 3804
+	},
+	{
+		"Name": "dragonsworn wep",
+		"IconRef": 1523,
+		"ModelId": 3805
+	},
+	{
+		"Name": "dragonsworn armor",
+		"IconRef": 1524,
+		"ModelId": 3806
+	},
+	{
+		"Name": "st. patty's gold pot",
+		"IconRef": 1525,
+		"ModelId": 3755
+	},
+	{
+		"Name": "st. patty's shamrock",
+		"IconRef": 1526,
+		"ModelId": 3753
+	},
+	{
+		"Name": "mug/stein",
+		"IconRef": 1527,
+		"ModelId": 3436
+	},
+	{
+		"Name": "easter egg",
+		"IconRef": 1528,
+		"ModelId": 3754
+	},
+	{
+		"Name": "easter egg basket",
+		"IconRef": 1529,
+		"ModelId": 3792
+	},
+	{
+		"Name": "alb medal of honor",
+		"IconRef": 1530,
+		"ModelId": 3807
+	},
+	{
+		"Name": "mid medal of honor",
+		"IconRef": 1531,
+		"ModelId": 3808
+	},
+	{
+		"Name": "hib medal of honor",
+		"IconRef": 1532,
+		"ModelId": 3809
+	},
+	{
 		"Name": "Mythical Slot Tier 1",
 		"IconRef": 1533,
 		"ModelId": 3553
@@ -1550,93 +1770,83 @@
 		"ModelId": 3495
 	},
 	{
-		"Name": "valentine's day card",
-		"IconRef": 1515,
-		"ModelId": 3743
+		"Name": "dragonsworn cloth helm",
+		"IconRef": 1558,
+		"ModelId": 3864
 	},
 	{
-		"Name": "valentine's day kiss",
-		"IconRef": 1516,
-		"ModelId": 3744
+		"Name": "dragonsworn leather helm",
+		"IconRef": 1559,
+		"ModelId": 3862
 	},
 	{
-		"Name": "valentine's day box",
-		"IconRef": 1517,
-		"ModelId": 3745
+		"Name": "dragonsworn chain helm",
+		"IconRef": 1560,
+		"ModelId": 3865
 	},
 	{
-		"Name": "dragon egg",
-		"IconRef": 1518,
-		"ModelId": 3739
+		"Name": "dragonsworn scale helm",
+		"IconRef": 1561,
+		"ModelId": 3867
 	},
 	{
-		"Name": "broken dragon egg",
-		"IconRef": 1519,
-		"ModelId": 3746
+		"Name": "dragonsworn plate helm",
+		"IconRef": 1562,
+		"ModelId": 3861
 	},
 	{
-		"Name": "st. patty's gold pot",
-		"IconRef": 1525,
-		"ModelId": 3755
+		"Name": "green poison vial",
+		"IconRef": 1568,
+		"ModelId": 4260
 	},
 	{
-		"Name": "st. patty's shamrock",
-		"IconRef": 1526,
-		"ModelId": 3753
+		"Name": "red poison vial",
+		"IconRef": 1569,
+		"ModelId": 4261
 	},
 	{
-		"Name": "mug/stein",
-		"IconRef": 1527,
-		"ModelId": 3436
+		"Name": "orange poison vial",
+		"IconRef": 1570,
+		"ModelId": 4262
 	},
 	{
-		"Name": "easter egg",
-		"IconRef": 1528,
-		"ModelId": 3754
+		"Name": "Red RvR Mythirian",
+		"IconRef": 1571,
+		"ModelId": 4267
 	},
 	{
-		"Name": "easter egg basket",
-		"IconRef": 1529,
-		"ModelId": 3792
+		"Name": "Blue RvR Mythirian",
+		"IconRef": 1572,
+		"ModelId": 4268
 	},
 	{
-		"Name": "st. patty's necklace",
-		"IconRef": 1520,
-		"ModelId": 3756
+		"Name": "Green RvR Mythirian",
+		"IconRef": 1573,
+		"ModelId": 4269
 	},
 	{
-		"Name": "st. patty's clover",
-		"IconRef": 1521,
-		"ModelId": 3757
+		"Name": "Yellow RvR Mythirian",
+		"IconRef": 1574,
+		"ModelId": 4270
 	},
 	{
-		"Name": "dragonsworn medal",
-		"IconRef": 1522,
-		"ModelId": 3804
+		"Name": "Brown RvR Mythirian",
+		"IconRef": 1575,
+		"ModelId": 4271
 	},
 	{
-		"Name": "dragonsworn wep",
-		"IconRef": 1523,
-		"ModelId": 3805
+		"Name": "Blue PvE Mythirian",
+		"IconRef": 1576,
+		"ModelId": 4272
 	},
 	{
-		"Name": "dragonsworn armor",
-		"IconRef": 1524,
-		"ModelId": 3806
+		"Name": "Green PvE Mythirian",
+		"IconRef": 1577,
+		"ModelId": 4273
 	},
 	{
-		"Name": "alb medal of honor",
-		"IconRef": 1530,
-		"ModelId": 3807
-	},
-	{
-		"Name": "mid medal of honor",
-		"IconRef": 1531,
-		"ModelId": 3808
-	},
-	{
-		"Name": "hib medal of honor",
-		"IconRef": 1532,
-		"ModelId": 3809
+		"Name": "Red PvE Mythirian",
+		"IconRef": 1578,
+		"ModelId": 4274
 	}
 ]
