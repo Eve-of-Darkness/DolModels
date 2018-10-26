@@ -1,0 +1,1642 @@
+[
+	{
+		"Name": "copper coin",
+		"IconRef": 1230,
+		"ModelId": 130
+	},
+	{
+		"Name": "silver coin",
+		"IconRef": 1231,
+		"ModelId": 131
+	},
+	{
+		"Name": "gold coin",
+		"IconRef": 1232,
+		"ModelId": 132
+	},
+	{
+		"Name": "platinum coin",
+		"IconRef": 1233,
+		"ModelId": 133
+	},
+	{
+		"Name": "mithril coin",
+		"IconRef": 1234,
+		"ModelId": 134
+	},
+	{
+		"Name": "all purpose bag",
+		"IconRef": 1235,
+		"ModelId": 488
+	},
+	{
+		"Name": "water skin",
+		"IconRef": 1236,
+		"ModelId": 489
+	},
+	{
+		"Name": "potion/flask",
+		"IconRef": 1237,
+		"ModelId": 99
+	},
+	{
+		"Name": "animal skin",
+		"IconRef": 1240,
+		"ModelId": 100
+	},
+	{
+		"Name": "jeweled necklace",
+		"IconRef": 1241,
+		"ModelId": 101
+	},
+	{
+		"Name": "meat",
+		"IconRef": 1242,
+		"ModelId": 102
+	},
+	{
+		"Name": "ring",
+		"IconRef": 1243,
+		"ModelId": 103
+	},
+	{
+		"Name": "totem",
+		"IconRef": 1244,
+		"ModelId": 104
+	},
+	{
+		"Name": "skull and bone",
+		"IconRef": 1245,
+		"ModelId": 105
+	},
+	{
+		"Name": "tooth/claw",
+		"IconRef": 1246,
+		"ModelId": 106
+	},
+	{
+		"Name": "snake skin",
+		"IconRef": 1247,
+		"ModelId": 107
+	},
+	{
+		"Name": "spider leg",
+		"IconRef": 1248,
+		"ModelId": 108
+	},
+	{
+		"Name": "collar",
+		"IconRef": 1249,
+		"ModelId": 109
+	},
+	{
+		"Name": "red gem",
+		"IconRef": 1250,
+		"ModelId": 110
+	},
+	{
+		"Name": "orange gem",
+		"IconRef": 1251,
+		"ModelId": 111
+	},
+	{
+		"Name": "yellow gem",
+		"IconRef": 1252,
+		"ModelId": 112
+	},
+	{
+		"Name": "green gem",
+		"IconRef": 1253,
+		"ModelId": 113
+	},
+	{
+		"Name": "cyan gem",
+		"IconRef": 1254,
+		"ModelId": 114
+	},
+	{
+		"Name": "blue gem",
+		"IconRef": 1255,
+		"ModelId": 115
+	},
+	{
+		"Name": "purple gem",
+		"IconRef": 1256,
+		"ModelId": 116
+	},
+	{
+		"Name": "white gem",
+		"IconRef": 1257,
+		"ModelId": 117
+	},
+	{
+		"Name": "black gem",
+		"IconRef": 1258,
+		"ModelId": 118
+	},
+	{
+		"Name": "gold gem",
+		"IconRef": 1259,
+		"ModelId": 119
+	},
+	{
+		"Name": "dye flask",
+		"IconRef": 1268,
+		"ModelId": 494
+	},
+	{
+		"Name": "alt dye flask",
+		"IconRef": 1269,
+		"ModelId": 495
+	},
+	{
+		"Name": "eyeball",
+		"IconRef": 1270,
+		"ModelId": 496
+	},
+	{
+		"Name": "bone",
+		"IconRef": 1271,
+		"ModelId": 497
+	},
+	{
+		"Name": "note",
+		"IconRef": 1272,
+		"ModelId": 498
+	},
+	{
+		"Name": "scroll",
+		"IconRef": 1273,
+		"ModelId": 499
+	},
+	{
+		"Name": "book",
+		"IconRef": 1274,
+		"ModelId": 500
+	},
+	{
+		"Name": "animal ear",
+		"IconRef": 1275,
+		"ModelId": 501
+	},
+	{
+		"Name": "human ear",
+		"IconRef": 1276,
+		"ModelId": 502
+	},
+	{
+		"Name": "human head",
+		"IconRef": 1277,
+		"ModelId": 503
+	},
+	{
+		"Name": "basket",
+		"IconRef": 1278,
+		"ModelId": 504
+	},
+	{
+		"Name": "chest",
+		"IconRef": 1279,
+		"ModelId": 505
+	},
+	{
+		"Name": "hair",
+		"IconRef": 1280,
+		"ModelId": 506
+	},
+	{
+		"Name": "cloth scrap",
+		"IconRef": 1281,
+		"ModelId": 507
+	},
+	{
+		"Name": "toe",
+		"IconRef": 1282,
+		"ModelId": 508
+	},
+	{
+		"Name": "broach/pin",
+		"IconRef": 1283,
+		"ModelId": 509
+	},
+	{
+		"Name": "hammer",
+		"IconRef": 1284,
+		"ModelId": 510
+	},
+	{
+		"Name": "crown",
+		"IconRef": 1285,
+		"ModelId": 511
+	},
+	{
+		"Name": "arrow",
+		"IconRef": 1286,
+		"ModelId": 512
+	},
+	{
+		"Name": "bolt",
+		"IconRef": 1287,
+		"ModelId": 513
+	},
+	{
+		"Name": "stone",
+		"IconRef": 1288,
+		"ModelId": 514
+	},
+	{
+		"Name": "feather/tail",
+		"IconRef": 1289,
+		"ModelId": 515
+	},
+	{
+		"Name": "ant carapace",
+		"IconRef": 1290,
+		"ModelId": 516
+	},
+	{
+		"Name": "beetle carapace",
+		"IconRef": 1291,
+		"ModelId": 517
+	},
+	{
+		"Name": "horse hoof",
+		"IconRef": 1292,
+		"ModelId": 518
+	},
+	{
+		"Name": "metal bars",
+		"IconRef": 1293,
+		"ModelId": 519
+	},
+	{
+		"Name": "wood board",
+		"IconRef": 1294,
+		"ModelId": 520
+	},
+	{
+		"Name": "leather square",
+		"IconRef": 1295,
+		"ModelId": 521
+	},
+	{
+		"Name": "cloth roll",
+		"IconRef": 1296,
+		"ModelId": 522
+	},
+	{
+		"Name": "blue orb",
+		"IconRef": 1297,
+		"ModelId": 523
+	},
+	{
+		"Name": "red orb",
+		"IconRef": 1298,
+		"ModelId": 524
+	},
+	{
+		"Name": "silver orb",
+		"IconRef": 1299,
+		"ModelId": 525
+	},
+	{
+		"Name": "Red RvR Mythirian",
+		"IconRef": 1571,
+		"ModelId": 4267
+	},
+	{
+		"Name": "Blue RvR Mythirian",
+		"IconRef": 1572,
+		"ModelId": 4268
+	},
+	{
+		"Name": "Green RvR Mythirian",
+		"IconRef": 1573,
+		"ModelId": 4269
+	},
+	{
+		"Name": "Yellow RvR Mythirian",
+		"IconRef": 1574,
+		"ModelId": 4270
+	},
+	{
+		"Name": "Brown RvR Mythirian",
+		"IconRef": 1575,
+		"ModelId": 4271
+	},
+	{
+		"Name": "Blue PvE Mythirian",
+		"IconRef": 1576,
+		"ModelId": 4272
+	},
+	{
+		"Name": "Green PvE Mythirian",
+		"IconRef": 1577,
+		"ModelId": 4273
+	},
+	{
+		"Name": "Red PvE Mythirian",
+		"IconRef": 1578,
+		"ModelId": 4274
+	},
+	{
+		"Name": "green vial",
+		"IconRef": 1300,
+		"ModelId": 526
+	},
+	{
+		"Name": "orange vial",
+		"IconRef": 1301,
+		"ModelId": 527
+	},
+	{
+		"Name": "cyan vial",
+		"IconRef": 1302,
+		"ModelId": 528
+	},
+	{
+		"Name": "red vial",
+		"IconRef": 1303,
+		"ModelId": 529
+	},
+	{
+		"Name": "blue vial",
+		"IconRef": 1304,
+		"ModelId": 530
+	},
+	{
+		"Name": "purple vial",
+		"IconRef": 1305,
+		"ModelId": 531
+	},
+	{
+		"Name": "yellow vial",
+		"IconRef": 1306,
+		"ModelId": 532
+	},
+	{
+		"Name": "pitcher",
+		"IconRef": 1307,
+		"ModelId": 533
+	},
+	{
+		"Name": "mortar and pestle",
+		"IconRef": 1308,
+		"ModelId": 534
+	},
+	{
+		"Name": "herbs",
+		"IconRef": 1309,
+		"ModelId": 535
+	},
+	{
+		"Name": "rivet",
+		"IconRef": 1310,
+		"ModelId": 536
+	},
+	{
+		"Name": "needle and thread",
+		"IconRef": 1311,
+		"ModelId": 537
+	},
+	{
+		"Name": "pot",
+		"IconRef": 1312,
+		"ModelId": 538
+	},
+	{
+		"Name": "dice",
+		"IconRef": 1313,
+		"ModelId": 539
+	},
+	{
+		"Name": "skull",
+		"IconRef": 1314,
+		"ModelId": 540
+	},
+	{
+		"Name": "dirt/dust/ash",
+		"IconRef": 1315,
+		"ModelId": 541
+	},
+	{
+		"Name": "animal paw",
+		"IconRef": 1316,
+		"ModelId": 542
+	},
+	{
+		"Name": "tree branch",
+		"IconRef": 1317,
+		"ModelId": 543
+	},
+	{
+		"Name": "small fish",
+		"IconRef": 1318,
+		"ModelId": 544
+	},
+	{
+		"Name": "large fish",
+		"IconRef": 1319,
+		"ModelId": 545
+	},
+	{
+		"Name": "mushroom",
+		"IconRef": 1320,
+		"ModelId": 546
+	},
+	{
+		"Name": "barrel",
+		"IconRef": 1321,
+		"ModelId": 547
+	},
+	{
+		"Name": "cake slice",
+		"IconRef": 1322,
+		"ModelId": 548
+	},
+	{
+		"Name": "goblet",
+		"IconRef": 1323,
+		"ModelId": 549
+	},
+	{
+		"Name": "bowl/plate",
+		"IconRef": 1324,
+		"ModelId": 550
+	},
+	{
+		"Name": "wing",
+		"IconRef": 1325,
+		"ModelId": 551
+	},
+	{
+		"Name": "wand",
+		"IconRef": 1326,
+		"ModelId": 552
+	},
+	{
+		"Name": "slime",
+		"IconRef": 1327,
+		"ModelId": 553
+	},
+	{
+		"Name": "bottle",
+		"IconRef": 1328,
+		"ModelId": 554
+	},
+	{
+		"Name": "banner",
+		"IconRef": 1329,
+		"ModelId": 555
+	},
+	{
+		"Name": "fishing pole",
+		"IconRef": 1330,
+		"ModelId": 580
+	},
+	{
+		"Name": "fishing hooks",
+		"IconRef": 1331,
+		"ModelId": 581
+	},
+	{
+		"Name": "bait can",
+		"IconRef": 1332,
+		"ModelId": 582
+	},
+	{
+		"Name": "gold key",
+		"IconRef": 1333,
+		"ModelId": 583
+	},
+	{
+		"Name": "silver key",
+		"IconRef": 1334,
+		"ModelId": 584
+	},
+	{
+		"Name": "bronze key",
+		"IconRef": 1335,
+		"ModelId": 585
+	},
+	{
+		"Name": "horn/drinking horn",
+		"IconRef": 1336,
+		"ModelId": 586
+	},
+	{
+		"Name": "egg",
+		"IconRef": 1337,
+		"ModelId": 587
+	},
+	{
+		"Name": "human hand",
+		"IconRef": 1338,
+		"ModelId": 588
+	},
+	{
+		"Name": "human leg",
+		"IconRef": 1339,
+		"ModelId": 589
+	},
+	{
+		"Name": "poison sac",
+		"IconRef": 1340,
+		"ModelId": 590
+	},
+	{
+		"Name": "gland",
+		"IconRef": 1341,
+		"ModelId": 591
+	},
+	{
+		"Name": "mirror/dish",
+		"IconRef": 1342,
+		"ModelId": 592
+	},
+	{
+		"Name": "humanoid statue",
+		"IconRef": 1343,
+		"ModelId": 593
+	},
+	{
+		"Name": "lion statue",
+		"IconRef": 1344,
+		"ModelId": 594
+	},
+	{
+		"Name": "heart",
+		"IconRef": 1345,
+		"ModelId": 595
+	},
+	{
+		"Name": "gold choker",
+		"IconRef": 1346,
+		"ModelId": 596
+	},
+	{
+		"Name": "belt",
+		"IconRef": 1347,
+		"ModelId": 597
+	},
+	{
+		"Name": "bracer",
+		"IconRef": 1348,
+		"ModelId": 598
+	},
+	{
+		"Name": "wire spool",
+		"IconRef": 1349,
+		"ModelId": 599
+	},
+	{
+		"Name": "strap",
+		"IconRef": 1350,
+		"ModelId": 600
+	},
+	{
+		"Name": "torch",
+		"IconRef": 1351,
+		"ModelId": 601
+	},
+	{
+		"Name": "wooden box",
+		"IconRef": 1352,
+		"ModelId": 602
+	},
+	{
+		"Name": "scroll tube",
+		"IconRef": 1353,
+		"ModelId": 603
+	},
+	{
+		"Name": "rope",
+		"IconRef": 1354,
+		"ModelId": 604
+	},
+	{
+		"Name": "empty vial",
+		"IconRef": 1355,
+		"ModelId": 605
+	},
+	{
+		"Name": "alt silver orb",
+		"IconRef": 1356,
+		"ModelId": 606
+	},
+	{
+		"Name": "four leaf clover",
+		"IconRef": 1357,
+		"ModelId": 607
+	},
+	{
+		"Name": "rabbit's foot",
+		"IconRef": 1358,
+		"ModelId": 608
+	},
+	{
+		"Name": "pile of coins",
+		"IconRef": 1359,
+		"ModelId": 609
+	},
+	{
+		"Name": "satchel",
+		"IconRef": 1360,
+		"ModelId": 610
+	},
+	{
+		"Name": "vine",
+		"IconRef": 1361,
+		"ModelId": 611
+	},
+	{
+		"Name": "spinter/twig",
+		"IconRef": 1362,
+		"ModelId": 612
+	},
+	{
+		"Name": "spike",
+		"IconRef": 1363,
+		"ModelId": 613
+	},
+	{
+		"Name": "mandible",
+		"IconRef": 1364,
+		"ModelId": 614
+	},
+	{
+		"Name": "tusk",
+		"IconRef": 1365,
+		"ModelId": 615
+	},
+	{
+		"Name": "yellow flower",
+		"IconRef": 1366,
+		"ModelId": 616
+	},
+	{
+		"Name": "blue flower",
+		"IconRef": 1367,
+		"ModelId": 617
+	},
+	{
+		"Name": "red flower",
+		"IconRef": 1368,
+		"ModelId": 618
+	},
+	{
+		"Name": "silver bracelet",
+		"IconRef": 1369,
+		"ModelId": 619
+	},
+	{
+		"Name": "gold earring",
+		"IconRef": 1370,
+		"ModelId": 620
+	},
+	{
+		"Name": "silver earring",
+		"IconRef": 1371,
+		"ModelId": 621
+	},
+	{
+		"Name": "gold bracelet",
+		"IconRef": 1372,
+		"ModelId": 622
+	},
+	{
+		"Name": "gold necklace",
+		"IconRef": 1373,
+		"ModelId": 623
+	},
+	{
+		"Name": "silver necklace",
+		"IconRef": 1374,
+		"ModelId": 624
+	},
+	{
+		"Name": "animal trap",
+		"IconRef": 1375,
+		"ModelId": 625
+	},
+	{
+		"Name": "chitin tip",
+		"IconRef": 1376,
+		"ModelId": 626
+	},
+	{
+		"Name": "gold tiara",
+		"IconRef": 1377,
+		"ModelId": 627
+	},
+	{
+		"Name": "baldric",
+		"IconRef": 1378,
+		"ModelId": 628
+	},
+	{
+		"Name": "scrap of skin",
+		"IconRef": 1379,
+		"ModelId": 629
+	},
+	{
+		"Name": "pick",
+		"IconRef": 1380,
+		"ModelId": 1649
+	},
+	{
+		"Name": "feather",
+		"IconRef": 1381,
+		"ModelId": 1648
+	},
+	{
+		"Name": "robin hood hat",
+		"IconRef": 1382,
+		"ModelId": 1281
+	},
+	{
+		"Name": "leaf hat",
+		"IconRef": 1383,
+		"ModelId": 1285
+	},
+	{
+		"Name": "wing hat",
+		"IconRef": 1384,
+		"ModelId": 1286
+	},
+	{
+		"Name": "jester's cap",
+		"IconRef": 1385,
+		"ModelId": 1287
+	},
+	{
+		"Name": "stag helm",
+		"IconRef": 1386,
+		"ModelId": 1288
+	},
+	{
+		"Name": "gandalf hat",
+		"IconRef": 1387,
+		"ModelId": 1278
+	},
+	{
+		"Name": "fur cap",
+		"IconRef": 1388,
+		"ModelId": 1283
+	},
+	{
+		"Name": "tarboosh",
+		"IconRef": 1389,
+		"ModelId": 1284
+	},
+	{
+		"Name": "wolf head helm",
+		"IconRef": 1390,
+		"ModelId": 1289
+	},
+	{
+		"Name": "silver circlet",
+		"IconRef": 1391,
+		"ModelId": 1290
+	},
+	{
+		"Name": "gold circlet",
+		"IconRef": 1392,
+		"ModelId": 1292
+	},
+	{
+		"Name": "bench (housing)",
+		"IconRef": 1393,
+		"ModelId": 1315
+	},
+	{
+		"Name": "fountain (housing)",
+		"IconRef": 1394,
+		"ModelId": 1317
+	},
+	{
+		"Name": "hedge (housing)",
+		"IconRef": 1395,
+		"ModelId": 1325
+	},
+	{
+		"Name": "long wall (housing)",
+		"IconRef": 1396,
+		"ModelId": 1329
+	},
+	{
+		"Name": "bed (housing)",
+		"IconRef": 1397,
+		"ModelId": 1339
+	},
+	{
+		"Name": "rnd table (housing)",
+		"IconRef": 1398,
+		"ModelId": 1360
+	},
+	{
+		"Name": "sqr table (housing)",
+		"IconRef": 1399,
+		"ModelId": 1357
+	},
+	{
+		"Name": "green poison vial",
+		"IconRef": 1568,
+		"ModelId": 4260
+	},
+	{
+		"Name": "red poison vial",
+		"IconRef": 1569,
+		"ModelId": 4261
+	},
+	{
+		"Name": "orange poison vial",
+		"IconRef": 1570,
+		"ModelId": 4262
+	},
+	{
+		"Name": "arch 1 (housing)",
+		"IconRef": 1400,
+		"ModelId": 1453
+	},
+	{
+		"Name": "painting (housing)",
+		"IconRef": 1401,
+		"ModelId": 1382
+	},
+	{
+		"Name": "lathe (housing)",
+		"IconRef": 1402,
+		"ModelId": 1446
+	},
+	{
+		"Name": "forge (housing)",
+		"IconRef": 1403,
+		"ModelId": 1445
+	},
+	{
+		"Name": "chair (housing)",
+		"IconRef": 1404,
+		"ModelId": 1348
+	},
+	{
+		"Name": "ram cladding",
+		"IconRef": 1405,
+		"ModelId": 1864
+	},
+	{
+		"Name": "ram beak",
+		"IconRef": 1406,
+		"ModelId": 1611
+	},
+	{
+		"Name": "swing harness",
+		"IconRef": 1407,
+		"ModelId": 1865
+	},
+	{
+		"Name": "spring arms",
+		"IconRef": 1408,
+		"ModelId": 1607
+	},
+	{
+		"Name": "arm cushion",
+		"IconRef": 1409,
+		"ModelId": 1608
+	},
+	{
+		"Name": "counter weight",
+		"IconRef": 1410,
+		"ModelId": 1866
+	},
+	{
+		"Name": "torsion cable",
+		"IconRef": 1411,
+		"ModelId": 1867
+	},
+	{
+		"Name": "gimbal",
+		"IconRef": 1412,
+		"ModelId": 1868
+	},
+	{
+		"Name": "pivot",
+		"IconRef": 1413,
+		"ModelId": 1609
+	},
+	{
+		"Name": "lemon",
+		"IconRef": 1414,
+		"ModelId": 1869
+	},
+	{
+		"Name": "mechanical part",
+		"IconRef": 1415,
+		"ModelId": 0
+	},
+	{
+		"Name": "jeweled bracelet",
+		"IconRef": 1416,
+		"ModelId": 0
+	},
+	{
+		"Name": "wooden bowl",
+		"IconRef": 1417,
+		"ModelId": 1870
+	},
+	{
+		"Name": "bow",
+		"IconRef": 1418,
+		"ModelId": 1871
+	},
+	{
+		"Name": "paddle/oar",
+		"IconRef": 1419,
+		"ModelId": 1872
+	},
+	{
+		"Name": "long ship",
+		"IconRef": 1420,
+		"ModelId": 1616
+	},
+	{
+		"Name": "atlantean boat",
+		"IconRef": 1421,
+		"ModelId": 1613
+	},
+	{
+		"Name": "small boat",
+		"IconRef": 1422,
+		"ModelId": 1615
+	},
+	{
+		"Name": "cog ship",
+		"IconRef": 1423,
+		"ModelId": 1614
+	},
+	{
+		"Name": "caravel",
+		"IconRef": 1424,
+		"ModelId": 1657
+	},
+	{
+		"Name": "stygian boat",
+		"IconRef": 1425,
+		"ModelId": 1612
+	},
+	{
+		"Name": "midgard bowsprit",
+		"IconRef": 1426,
+		"ModelId": 1618
+	},
+	{
+		"Name": "hibernia bowsprit",
+		"IconRef": 1427,
+		"ModelId": 1650
+	},
+	{
+		"Name": "albion bowsprit",
+		"IconRef": 1428,
+		"ModelId": 1617
+	},
+	{
+		"Name": "cyan orb",
+		"IconRef": 1429,
+		"ModelId": 1873
+	},
+	{
+		"Name": "whistle",
+		"IconRef": 1430,
+		"ModelId": 1874
+	},
+	{
+		"Name": "toy sword",
+		"IconRef": 1431,
+		"ModelId": 1875
+	},
+	{
+		"Name": "lamp",
+		"IconRef": 1432,
+		"ModelId": 1876
+	},
+	{
+		"Name": "shelf bracket",
+		"IconRef": 1433,
+		"ModelId": 1877
+	},
+	{
+		"Name": "hinge",
+		"IconRef": 1434,
+		"ModelId": 1878
+	},
+	{
+		"Name": "rag doll",
+		"IconRef": 1435,
+		"ModelId": 1879
+	},
+	{
+		"Name": "marionette",
+		"IconRef": 1436,
+		"ModelId": 1880
+	},
+	{
+		"Name": "scarf",
+		"IconRef": 1437,
+		"ModelId": 1881
+	},
+	{
+		"Name": "pillow",
+		"IconRef": 1438,
+		"ModelId": 1882
+	},
+	{
+		"Name": "bloodstone",
+		"IconRef": 1439,
+		"ModelId": 1883
+	},
+	{
+		"Name": "artifact belt",
+		"IconRef": 1440,
+		"ModelId": 1884
+	},
+	{
+		"Name": "artifact bracer",
+		"IconRef": 1441,
+		"ModelId": 1885
+	},
+	{
+		"Name": "artifact jewel",
+		"IconRef": 1442,
+		"ModelId": 1886
+	},
+	{
+		"Name": "artifact necklace",
+		"IconRef": 1443,
+		"ModelId": 1887
+	},
+	{
+		"Name": "artifact ring",
+		"IconRef": 1444,
+		"ModelId": 1888
+	},
+	{
+		"Name": "ballista",
+		"IconRef": 1445,
+		"ModelId": 1674
+	},
+	{
+		"Name": "ram",
+		"IconRef": 1446,
+		"ModelId": 1678
+	},
+	{
+		"Name": "trebuchet",
+		"IconRef": 1447,
+		"ModelId": 1673
+	},
+	{
+		"Name": "catapult",
+		"IconRef": 1448,
+		"ModelId": 1677
+	},
+	{
+		"Name": "green gem ring",
+		"IconRef": 1449,
+		"ModelId": 2520
+	},
+	{
+		"Name": "red gem ring",
+		"IconRef": 1450,
+		"ModelId": 2521
+	},
+	{
+		"Name": "blue gem ring",
+		"IconRef": 1451,
+		"ModelId": 2522
+	},
+	{
+		"Name": "white gem ring",
+		"IconRef": 1452,
+		"ModelId": 2523
+	},
+	{
+		"Name": "pink gem ring",
+		"IconRef": 1453,
+		"ModelId": 2524
+	},
+	{
+		"Name": "yellow gem ring",
+		"IconRef": 1454,
+		"ModelId": 2525
+	},
+	{
+		"Name": "cyan gem ring",
+		"IconRef": 1455,
+		"ModelId": 2526
+	},
+	{
+		"Name": "black poison vial",
+		"IconRef": 1456,
+		"ModelId": 2538
+	},
+	{
+		"Name": "purple poison vial",
+		"IconRef": 1457,
+		"ModelId": 2539
+	},
+	{
+		"Name": "yellow poison vial",
+		"IconRef": 1458,
+		"ModelId": 2540
+	},
+	{
+		"Name": "blue poison vial",
+		"IconRef": 1459,
+		"ModelId": 2541
+	},
+	{
+		"Name": "cyan poison vial",
+		"IconRef": 1460,
+		"ModelId": 2542
+	},
+	{
+		"Name": "cyan potion",
+		"IconRef": 1461,
+		"ModelId": 2543
+	},
+	{
+		"Name": "green potion",
+		"IconRef": 1462,
+		"ModelId": 2544
+	},
+	{
+		"Name": "yellow potion",
+		"IconRef": 1463,
+		"ModelId": 2545
+	},
+	{
+		"Name": "orange potion",
+		"IconRef": 1464,
+		"ModelId": 2546
+	},
+	{
+		"Name": "red potion",
+		"IconRef": 1465,
+		"ModelId": 2547
+	},
+	{
+		"Name": "purple potion",
+		"IconRef": 1466,
+		"ModelId": 2548
+	},
+	{
+		"Name": "blue potion",
+		"IconRef": 1467,
+		"ModelId": 2549
+	},
+	{
+		"Name": "rainbow potion",
+		"IconRef": 1468,
+		"ModelId": 2550
+	},
+	{
+		"Name": "aurulite",
+		"IconRef": 1469,
+		"ModelId": 3435
+	},
+	{
+		"Name": "greek fire",
+		"IconRef": 1470,
+		"ModelId": 2620
+	},
+	{
+		"Name": "ice boulder",
+		"IconRef": 1471,
+		"ModelId": 2621
+	},
+	{
+		"Name": "animal carcass",
+		"IconRef": 1472,
+		"ModelId": 2622
+	},
+	{
+		"Name": "boiling oil",
+		"IconRef": 1473,
+		"ModelId": 2607
+	},
+	{
+		"Name": "artifact serpent",
+		"IconRef": 1475,
+		"ModelId": 2595
+	},
+	{
+		"Name": "crocodile's tooth",
+		"IconRef": 1476,
+		"ModelId": 1669
+	},
+	{
+		"Name": "serpent whip",
+		"IconRef": 1477,
+		"ModelId": 2219
+	},
+	{
+		"Name": "scorpion greaves",
+		"IconRef": 1478,
+		"ModelId": 2197
+	},
+	{
+		"Name": "traitor's dagger",
+		"IconRef": 1479,
+		"ModelId": 1668
+	},
+	{
+		"Name": "tartaro's gift",
+		"IconRef": 1480,
+		"ModelId": 1659
+	},
+	{
+		"Name": "trident of the gods",
+		"IconRef": 1481,
+		"ModelId": 1660
+	},
+	{
+		"Name": "staff of the oracle",
+		"IconRef": 1482,
+		"ModelId": 1658
+	},
+	{
+		"Name": "spear of kings",
+		"IconRef": 1483,
+		"ModelId": 1661
+	},
+	{
+		"Name": "golden spear",
+		"IconRef": 1484,
+		"ModelId": 1662
+	},
+	{
+		"Name": "meritorious scepter",
+		"IconRef": 1485,
+		"ModelId": 1672
+	},
+	{
+		"Name": "toa sword",
+		"IconRef": 1486,
+		"ModelId": 0
+	},
+	{
+		"Name": "battler sword",
+		"IconRef": 1487,
+		"ModelId": 1670
+	},
+	{
+		"Name": "serpent scythe",
+		"IconRef": 1488,
+		"ModelId": 2111
+	},
+	{
+		"Name": "malice axe",
+		"IconRef": 1489,
+		"ModelId": 2110
+	},
+	{
+		"Name": "croc tooth axe",
+		"IconRef": 1490,
+		"ModelId": 3451
+	},
+	{
+		"Name": "bruiser hammer",
+		"IconRef": 1491,
+		"ModelId": 2113
+	},
+	{
+		"Name": "malice hammer",
+		"IconRef": 1492,
+		"ModelId": 1671
+	},
+	{
+		"Name": "braggart's bow",
+		"IconRef": 1493,
+		"ModelId": 1667
+	},
+	{
+		"Name": "fool's bow",
+		"IconRef": 1494,
+		"ModelId": 1666
+	},
+	{
+		"Name": "crown of zahur",
+		"IconRef": 1495,
+		"ModelId": 1839
+	},
+	{
+		"Name": "winged helm",
+		"IconRef": 1496,
+		"ModelId": 2223
+	},
+	{
+		"Name": "shield of khaos",
+		"IconRef": 1497,
+		"ModelId": 1665
+	},
+	{
+		"Name": "aten's shield",
+		"IconRef": 1498,
+		"ModelId": 1663
+	},
+	{
+		"Name": "cyclop's eye",
+		"IconRef": 1499,
+		"ModelId": 1664
+	},
+	{
+		"Name": "archer",
+		"IconRef": 1500,
+		"ModelId": 2623
+	},
+	{
+		"Name": "melee",
+		"IconRef": 1501,
+		"ModelId": 2624
+	},
+	{
+		"Name": "caster",
+		"IconRef": 1502,
+		"ModelId": 2625
+	},
+	{
+		"Name": "wizard",
+		"IconRef": 1503,
+		"ModelId": 2626
+	},
+	{
+		"Name": "stealther",
+		"IconRef": 1504,
+		"ModelId": 2627
+	},
+	{
+		"Name": "healer",
+		"IconRef": 1505,
+		"ModelId": 2628
+	},
+	{
+		"Name": "horse",
+		"IconRef": 1506,
+		"ModelId": 2912
+	},
+	{
+		"Name": "horse armor",
+		"IconRef": 1507,
+		"ModelId": 2913
+	},
+	{
+		"Name": "horse barding",
+		"IconRef": 1508,
+		"ModelId": 2914
+	},
+	{
+		"Name": "saddle",
+		"IconRef": 1509,
+		"ModelId": 3431
+	},
+	{
+		"Name": "stirrups",
+		"IconRef": 1510,
+		"ModelId": 3432
+	},
+	{
+		"Name": "reins",
+		"IconRef": 1511,
+		"ModelId": 3433
+	},
+	{
+		"Name": "spool of ribbon",
+		"IconRef": 1512,
+		"ModelId": 3434
+	},
+	{
+		"Name": "(TOA) mauler staff",
+		"IconRef": 1513,
+		"ModelId": 0
+	},
+	{
+		"Name": "(TOA) mauler fist",
+		"IconRef": 1514,
+		"ModelId": 0
+	},
+	{
+		"Name": "Mythical Slot Tier 1",
+		"IconRef": 1533,
+		"ModelId": 3553
+	},
+	{
+		"Name": "Mythical Slot Tier 2",
+		"IconRef": 1534,
+		"ModelId": 3551
+	},
+	{
+		"Name": "Mythical Slot Tier 3",
+		"IconRef": 1535,
+		"ModelId": 3552
+	},
+	{
+		"Name": "relic staff of unity",
+		"IconRef": 1536,
+		"ModelId": 3484
+	},
+	{
+		"Name": "relic battle trident",
+		"IconRef": 1537,
+		"ModelId": 3537
+	},
+	{
+		"Name": "relic artisan shield",
+		"IconRef": 1538,
+		"ModelId": 3493
+	},
+	{
+		"Name": "relic earth runestone",
+		"IconRef": 1539,
+		"ModelId": 3488
+	},
+	{
+		"Name": "relic warhorn",
+		"IconRef": 1540,
+		"ModelId": 3545
+	},
+	{
+		"Name": "relic artisan gear",
+		"IconRef": 1541,
+		"ModelId": 3494
+	},
+	{
+		"Name": "relic death blade",
+		"IconRef": 1542,
+		"ModelId": 3492
+	},
+	{
+		"Name": "relic battle statue",
+		"IconRef": 1543,
+		"ModelId": 3538
+	},
+	{
+		"Name": "relic cow bell",
+		"IconRef": 1544,
+		"ModelId": 3500
+	},
+	{
+		"Name": "relic death mask",
+		"IconRef": 1545,
+		"ModelId": 3491
+	},
+	{
+		"Name": "relic death skull",
+		"IconRef": 1546,
+		"ModelId": 3490
+	},
+	{
+		"Name": "relic earth razestone",
+		"IconRef": 1547,
+		"ModelId": 3489
+	},
+	{
+		"Name": "relic forge anvil",
+		"IconRef": 1548,
+		"ModelId": 3499
+	},
+	{
+		"Name": "relic health amulet",
+		"IconRef": 1549,
+		"ModelId": 3487
+	},
+	{
+		"Name": "relic health brazier",
+		"IconRef": 1550,
+		"ModelId": 3486
+	},
+	{
+		"Name": "relic ruler bracer",
+		"IconRef": 1551,
+		"ModelId": 3496
+	},
+	{
+		"Name": "relic ruler statue",
+		"IconRef": 1552,
+		"ModelId": 3539
+	},
+	{
+		"Name": "relic storm orrey",
+		"IconRef": 1553,
+		"ModelId": 3497
+	},
+	{
+		"Name": "relic ruler wreath",
+		"IconRef": 1554,
+		"ModelId": 3535
+	},
+	{
+		"Name": "relic storm palantir",
+		"IconRef": 1555,
+		"ModelId": 3498
+	},
+	{
+		"Name": "relic scroll of unity",
+		"IconRef": 1556,
+		"ModelId": 3485
+	},
+	{
+		"Name": "relic forge flame",
+		"IconRef": 1557,
+		"ModelId": 3495
+	},
+	{
+		"Name": "valentine's day card",
+		"IconRef": 1515,
+		"ModelId": 3743
+	},
+	{
+		"Name": "valentine's day kiss",
+		"IconRef": 1516,
+		"ModelId": 3744
+	},
+	{
+		"Name": "valentine's day box",
+		"IconRef": 1517,
+		"ModelId": 3745
+	},
+	{
+		"Name": "dragon egg",
+		"IconRef": 1518,
+		"ModelId": 3739
+	},
+	{
+		"Name": "broken dragon egg",
+		"IconRef": 1519,
+		"ModelId": 3746
+	},
+	{
+		"Name": "st. patty's gold pot",
+		"IconRef": 1525,
+		"ModelId": 3755
+	},
+	{
+		"Name": "st. patty's shamrock",
+		"IconRef": 1526,
+		"ModelId": 3753
+	},
+	{
+		"Name": "mug/stein",
+		"IconRef": 1527,
+		"ModelId": 3436
+	},
+	{
+		"Name": "easter egg",
+		"IconRef": 1528,
+		"ModelId": 3754
+	},
+	{
+		"Name": "easter egg basket",
+		"IconRef": 1529,
+		"ModelId": 3792
+	},
+	{
+		"Name": "st. patty's necklace",
+		"IconRef": 1520,
+		"ModelId": 3756
+	},
+	{
+		"Name": "st. patty's clover",
+		"IconRef": 1521,
+		"ModelId": 3757
+	},
+	{
+		"Name": "dragonsworn medal",
+		"IconRef": 1522,
+		"ModelId": 3804
+	},
+	{
+		"Name": "dragonsworn wep",
+		"IconRef": 1523,
+		"ModelId": 3805
+	},
+	{
+		"Name": "dragonsworn armor",
+		"IconRef": 1524,
+		"ModelId": 3806
+	},
+	{
+		"Name": "alb medal of honor",
+		"IconRef": 1530,
+		"ModelId": 3807
+	},
+	{
+		"Name": "mid medal of honor",
+		"IconRef": 1531,
+		"ModelId": 3808
+	},
+	{
+		"Name": "hib medal of honor",
+		"IconRef": 1532,
+		"ModelId": 3809
+	}
+]
