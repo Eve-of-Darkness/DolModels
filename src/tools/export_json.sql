@@ -62,7 +62,7 @@ select
 					'true'
 				)))))))))))) || ','  || 
 '"IsInventory":' || IIF(NIF==0 AND Icon<>0, 'true',
-					IIF(NIF=1, 'true',
+					IIF(NIF==1, 'true',
 					'false'
 				)) || ','  || 
 '"IsOther":false,'  || 
