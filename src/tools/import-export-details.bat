@@ -9,4 +9,4 @@ sqlite3.exe objects.sqlite -separator "," ".import objects-header.csv objects"
 REM Step 3 : export the objects to the items_new.json via export_json.sql query 
 sqlite3.exe objects.sqlite < export_json.sql > items_new.json 
 
-REM Step 4 : modify "items_new.json" file to add [ as first character and ] as last one 
+REM Step 4 : modify "items_new.json" file to add [ as first character and ] as last one and removing the latest "," character 

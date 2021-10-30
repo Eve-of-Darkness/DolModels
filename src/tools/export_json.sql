@@ -61,7 +61,10 @@ select
 					IIF(SiegeEquipment<>0, 'false',
 					'true'
 				)))))))))))) || ','  || 
-'"IsInventory":false,'  || 
+'"IsInventory":' || IIF(NIF==0 AND Icon<>0, 'true',
+					IIF(NIF=1, 'true',
+					'false'
+				)) || ','  || 
 '"IsOther":false,'  || 
 '"ModelId":'||ID||','  || 
 '"Name":"'|| name || '"},' 
